@@ -1,5 +1,4 @@
 import Config from '../Config/Config';
-
 import { Client, Account, ID } from "appwrite";
 
 export class AuthService {
