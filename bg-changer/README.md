@@ -1,6 +1,6 @@
 # BackgroundColor Changer
 
-![Banner](https://github.com/xshshahab/React_ui_Code/blob/main/bg-changer/bg-changer/showcase/bg.png)
+![Banner](https://github.com/xshshahab/React_ui_Code/blob/main/bg-changer/showcase/bg.png)
 
 ## Description
 
