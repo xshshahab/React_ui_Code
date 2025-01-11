@@ -1,8 +1,13 @@
-# React + Vite
+# BackgroundColor Changer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Banner](bg-changer/showcase/bg.png)
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The **BackgroundColor Changer** app is designed to help users easily change the background color of screen. With just a few clicks, you can replace the background color of any screen to suit your needs.
+
+### Features:
+
+- Click on button and select a new background color.
+
+This app is perfect for anyone looking to enhance their dev screen with creative background colors quickly and easily!
